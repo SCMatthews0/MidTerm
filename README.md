@@ -10,13 +10,15 @@ Hello, my name is ***Samuel Matthews.*** I am a student at [Mizzou](https://miss
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zeazBxYygXW-T25t_r6xDzJyJcMT4Ps_5lCOuXc&usqp=CAE&s)
 ## My Interests
-I am what you would call a stereotypical nerd. I love dungeons and dragons, magic the gathering, video games and all things fantasy or science fiction. I have a love of classical rock and roll with led zeppelin being my favorite band. I enjoy drawing, whether it be digital or pen and paper, and have dabbled with 3DS Max and Maya in the past. I also have a fascination and love of [Herpetology](https://en.wikipedia.org/wiki/Herpetology). In my life I have owned and cared for many different reptiles including 
+I am what you would call a stereotypical nerd. I love dungeons and dragons, magic the gathering, video games and all things fantasy or science fiction. I have a love of classical rock and roll with led zeppelin being my favorite band. I enjoy drawing, whether it be digital or pen and paper, and have dabbled with 3DS Max and Maya in the past. I have a golden doodle named *Freyja* who is the joy of my life. I also have a fascination and love of [Herpetology](https://en.wikipedia.org/wiki/Herpetology). In my life I have owned and cared for many different reptiles including 
 - A Brearded Dragon named *Simon*
 - A blue tounge skink named *Stacy*
 - A corn Snake named *Snake*
 - An African Dwarf Frog named *Fred*
+- A Leopard Gecko named *Gabby*
 
 Currently I only have one, a Crested Gecko named *Ed*, however I plan to get more very soon.
+[Other Animals]()
 
 ![Ed Giving me a BIG hug!](https://user-images.githubusercontent.com/116331873/197120056-0d3b9364-e933-4f59-991a-34f8909b7d68.jpg)
 ## Example Project
