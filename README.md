@@ -18,7 +18,7 @@ I am what you would call a stereotypical nerd. I love dungeons and dragons, magi
 - A Leopard Gecko named *Gabby*
 
 Currently I only have one, a Crested Gecko named *Ed*, however I plan to get more very soon.
-[Other Animals]()
+[Other Animals](https://github.com/SCMatthews0/Pets.git)
 
 ![Ed Giving me a BIG hug!](https://user-images.githubusercontent.com/116331873/197120056-0d3b9364-e933-4f59-991a-34f8909b7d68.jpg)
 ## Example Project
