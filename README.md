@@ -78,3 +78,7 @@ elif(user_choice == "3"):
 
 print("the volume is:" + str(volume))
 ```
+Other projects I did:
+- [TurtleImage](https://github.com/SCMatthews0/Turtle.git)
+- [AboutME](https://github.com/SCMatthews0/About-Me.git)
+- [VolumeOfACone](https://github.com/SCMatthews0/VolumeCone.git)
